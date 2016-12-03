@@ -12,7 +12,7 @@ export default class App extends Component {
           <h2>Testing React with GH-Pages</h2>
         </div>
         <section className="Content-Container">
-          <Content link="react-gh-pages-test/about" page="About" />
+          <Content link="/react-gh-pages-test/about" page="About" />
         </section>
       </div>
     );

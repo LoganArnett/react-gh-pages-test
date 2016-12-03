@@ -12,7 +12,7 @@ export default class About extends Component {
           <h2>About Route</h2>
         </div>
         <section className="Content-Container">
-          <Content link="react-gh-pages-test/" page="Home" />
+          <Content link="/react-gh-pages-test/" page="Home" />
         </section>
       </div>
     );
